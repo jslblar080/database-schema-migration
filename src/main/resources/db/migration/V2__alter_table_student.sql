@@ -1,0 +1,1 @@
+ALTER TABLE student ADD COLUMN last_name VARCHAR(30);
